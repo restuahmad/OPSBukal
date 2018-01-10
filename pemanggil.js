@@ -29,7 +29,9 @@ if(x=="5"){xxx="/2017/11/arctic-melt-season-changes-and-arctic.html"}
 if(x=="6"){xxx="/2017/11/bangkok-destination-guide.html"}
 if(x=="7"){xxx="/2017/11/security-firm-claims-to-thwart-iphone.html"}
 if(x=="8"){xxx="/2017/11/thousands-of-scientists-issue-bleak.html"}
-if(x=="9"){xxx="/2017/11/what-life-will-be-like-when-computer-disappears.html"}a_to_ve[i].href="https://safelink-opsbukal.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="9"){xxx="/2017/11/what-life-will-be-like-when-computer-disappears.html"}
+if(x=="10"){xxx="/2017/12/5-best-insurance-tips-for-millennials.html"}
+if(x=="11"){xxx="/2018/01/4-best-tips-for-choosing-fire-insurance.html"}a_to_ve[i].href="https://safelink-opsbukal.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
